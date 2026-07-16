@@ -8,6 +8,7 @@ This repository contains the research materials supporting the paper:
 
 The repository has been created to promote transparency, reproducibility, and reuse of the research in accordance with Open Science principles.
 
+This repository contains the essential research materials required to understand, reproduce, and extend the findings reported in the associated research paper.
 ## Repository Structure
 
 ### 01_Questionnaire
