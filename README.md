@@ -23,9 +23,6 @@ Jamovi project file and statistical analysis outputs.
 ### 04_Framework
 Conceptual framework and related figures.
 
-### 05_Supplementary_Materials
-Additional supporting documents and research materials.
-
 ## Authors
 
 - Cristiane Sampaio Santana
