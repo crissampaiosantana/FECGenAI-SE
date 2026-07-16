@@ -11,6 +11,4 @@ Contents:
 
 The dataset is fully anonymized and can be used to reproduce the statistical analyses reported in the manuscript.
 
-## License
 
-These research materials are provided exclusively for academic and research purposes. Please cite the associated publication when using this dataset.
