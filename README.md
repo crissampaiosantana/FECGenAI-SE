@@ -31,10 +31,4 @@ Additional supporting documents and research materials.
 - Gilson Yuuji Shimizu
 - Rodrigo Bonacin
 
-## Citation
 
-If you use these materials, please cite the corresponding research article.
-
-## License
-
-The materials are made available for academic and research purposes.
