@@ -1,13 +1,13 @@
 # Statistical Analysis
 
-This directory contains the statistical analysis files used in the FECGenAI-SE study.
+This directory contains the statistical analysis files supporting the FECGenAI-SE study.
 
 ## Contents
 
 - **Statistical_Analysis_Data.xlsx** – Statistical analysis outputs generated from the survey data.
-- **Spearman_Correlation_Matrix.xlsx** – Spearman correlation matrix used to evaluate relationships among the study constructs.
-- **Descriptive_Statistics.png** – Descriptive statistics tables generated during the analysis.
+- **Spearman_Correlation_Matrix.xlsx** – Spearman correlation matrix used in the study.
 - **Descriptive_Statistics_Age.xlsx** – Descriptive statistics for participants' age.
+- **Descriptive_Statistics.png** – Descriptive statistics for the study variables.
 
 ## Software
 
@@ -15,7 +15,7 @@ The analyses were performed using Jamovi.
 
 ## Statistical Methods
 
-The statistical analyses include:
+The analyses include:
 
 - Descriptive statistics
 - Reliability analysis (Cronbach's Alpha)
@@ -23,4 +23,4 @@ The statistical analyses include:
 - Chi-square tests
 - Spearman correlation analysis
 
-These materials support the results presented in the manuscript.
+These materials support the statistical results reported in the manuscript.
