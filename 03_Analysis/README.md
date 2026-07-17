@@ -1,26 +1,46 @@
 # Statistical Analysis
 
-This directory contains the statistical analysis files supporting the FECGenAI-SE study.
+This directory contains the statistical analyses performed in the study **FECGenAI-SE: A Framework for Evaluating the Influence of Culture and Artificial Intelligence Literacy on the Adoption of Generative Artificial Intelligence in Software Engineering**.
 
-## Contents
+The analyses were conducted using **Jamovi** and include the complete project file as well as exported correlation matrices.
 
-- **Statistical_Analysis_Data.xlsx** – Statistical analysis outputs generated from the survey data.
-- **Spearman_Correlation_Matrix.xlsx** – Spearman correlation matrix used in the study.
-- **Descriptive_Statistics_Age.xlsx** – Descriptive statistics for participants' age.
-- **Descriptive_Statistics.png** – Descriptive statistics for the study variables.
+## Directory structure
 
-## Software
+```
+03_Analysis
+│
+├── 01_Jamovi_Project
+│   └── FECGenAI-SE_Complete_Analysis.omv
+│
+├── Spearman_Correlation_Matrix.xlsx
+│
+└── Spearman_Correlation_Matrix_All_Items.xlsx
+```
 
-The analyses were performed using Jamovi.
+## Files
 
-## Statistical Methods
+### `01_Jamovi_Project/FECGenAI-SE_Complete_Analysis.omv`
 
-The analyses include:
+Complete Jamovi project containing all statistical analyses reported in the dissertation and manuscript, including:
 
 - Descriptive statistics
 - Reliability analysis (Cronbach's Alpha)
-- Exploratory Factor Analysis (EFA)
-- Chi-square tests
-- Spearman correlation analysis
+- Exploratory Factor Analysis (KMO, Bartlett's Test, and EFA)
+- Chi-square tests of association
+- Spearman correlation analyses
 
-These materials support the statistical results reported in the manuscript.
+### `Spearman_Correlation_Matrix.xlsx`
+
+Spearman correlation matrix computed using the construct scores (mean values of each construct) adopted in the FECGenAI-SE framework.
+
+### `Spearman_Correlation_Matrix_All_Items.xlsx`
+
+Spearman correlation matrix computed using all questionnaire items individually (item-level analysis).
+
+## Software
+
+- Jamovi (Version 2.x)
+
+## Reproducibility
+
+Opening the `FECGenAI-SE_Complete_Analysis.omv` project reproduces all statistical analyses presented in the dissertation and the associated scientific publication.
